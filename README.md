@@ -1,3 +1,19 @@
+# Starting Server
+
+-npm start
+
+## All current available Routes
+
+/ - Login page.\
+/usersetting - User setting page : \
+  /userdetail - User detail page\
+  /coursedetail - Course detail page\
+  /ktm - KTM page\
+  /language - Language page\
+  \
+/logintest - testing api login connection with backend\
+/apitest - api learn using JokeApi\
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
