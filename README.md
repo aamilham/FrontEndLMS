@@ -4,15 +4,15 @@
 
 ## All current available Routes
 
-/ - Login page.\
-/usersetting - User setting page : \
-  /userdetail - User detail page\
-  /coursedetail - Course detail page\
-  /ktm - KTM page\
-  /language - Language page\
+`/` - Login page.\
+`/usersetting` - User setting page : \
+  `/userdetail` - User detail page\
+  `/coursedetail` - Course detail page\
+  `/ktm` - KTM page\
+  `/language` - Language page\
   \
-/logintest - testing api login connection with backend\
-/apitest - api learn using JokeApi\
+`/logintest` - testing api login connection with backend\
+`/apitest` - api learn using JokeApi\
 
 # Getting Started with Create React App
 
